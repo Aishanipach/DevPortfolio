@@ -41,7 +41,7 @@
     border-radius: 0.5rem;
     padding: 1.5rem;
     margin: 1rem 0 1rem 0;
-
+    border-color: #202020;
     position: relative;
     display: flex;
     align-items: flex-end;
@@ -51,7 +51,7 @@
 
 .wrapper .card:hover {
     transform: translateY(20px);
-    box-shadow: 1px 0px 32px -5px rgba(202, 255, 77, 0.41);
+    box-shadow: 1px 0px 32px -5px #caff4d69;
     cursor: pointer;
     /* //background-color: black; */
 
@@ -74,6 +74,7 @@
     display: block;
     width: 100%;
     height: 100%;
+    border-color: #202020;
     border-radius: 0.5rem;
     background: rgba(0, 0, 0, 0.6);
     z-index: 2;
@@ -90,6 +91,7 @@
     top: 0;
     left: 0;
     border-radius: 0.5rem;
+    border-color: #202020;
 }
 
 .wrapper .card .info {
@@ -124,6 +126,6 @@
 }
 
 .wrapper .card .info button:hover {
-    background: dodgerblue;
-    color: #fafafa;
+    background: #202020;
+    color: #caff4d;
 }

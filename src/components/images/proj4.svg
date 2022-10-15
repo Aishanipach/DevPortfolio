@@ -27,8 +27,8 @@
 <use xlink:href="#image3_741_83" transform="scale(0.00303951 0.00628931)"/>
 </pattern>
 <radialGradient id="paint0_diamond_741_83" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(501.4 1069.41) rotate(102.373) scale(1094.84 1253.48)">
-<stop stop-color="#F69522"/>
-<stop offset="1" stop-color="#FAFAFA"/>
+<stop stop-color="#FB8903"/>
+<stop offset="1"/>
 </radialGradient>
 <clipPath id="clip0_741_83">
 <rect width="1472" height="1295" fill="white"/>
