@@ -1,0 +1,29 @@
+h1 {
+    font-size: 20vw;
+}
+
+.linear-wipe {
+    font-size: 5.3rem;
+    text-align: left;
+    background: linear-gradient(to right, #fff 20%, #cbff4d 40%, #98ea4d 60%, #fff 80%);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: shine 3s linear infinite;
+    animation: shine 3s linear infinite;
+}
+
+@-webkit-keyframes shine {
+    to {
+        background-position: 200% center;
+    }
+}
+
+@keyframes shine {
+    to {
+        background-position: 200% center;
+    }
+}
