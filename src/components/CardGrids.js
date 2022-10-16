@@ -35,7 +35,7 @@ function CardGrids() {
           <div class="info">
             <h5>BaazVU & BaazAdmin</h5>
             <p style={{ fontWeight: "300" }}>Inventory management React-based dashboard for Baaz Bikes with AWS Cognito enabled auth and integrated backend. </p>
-            <a href="https://covid-19-app-2633a.web.app/" target="_blank"><button>Read More</button></a>
+            <a href="https://www.linkedin.com/company/baazbikes/" target="_blank"><button>Read More</button></a>
           </div>
         </div>
         <div class="card" id="newr"><img src={proj5} alt="" />
@@ -48,8 +48,8 @@ function CardGrids() {
         <div class="card" id="newr"><img src={proj6} alt="" />
           <div class="info">
             <h5>Cloud Continuous Delivery of Microservices</h5>
-            <p style={{ fontWeight: "300" }}>Methodology to deploy containerized microservices efficiently using greedy approach.</p>
-            <a href="https://covid-19-app-2633a.web.app/" target="_blank"><button>Read More</button></a>
+            <p style={{ fontWeight: "300" }}>Architecture to deploy containerized microservices efficiently using greedy approach.</p>
+            <a href="https://docs.google.com/document/d/1zuBbMjag3B_a8SprWLbmLCDzn7mT84MwnvEbxLSp69I/edit" target="_blank"><button>Read More</button></a>
           </div>
         </div>
       </div></div>
