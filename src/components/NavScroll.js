@@ -29,7 +29,7 @@ function NavScroll() {
 
     <Navbar bg="transparent" expand="lg" fixed='top' className="text-light" style={{ padding: "0" }}>
       <Container id={navvbar ? 'navbaractive' : 'navbar'} /*className={`text-light ${navvbar ? 'm-1' : 'm-5'}`}*/ fluid>
-        <Navbar.Brand className="text-light " style={{ fontWeight: "500", fontSize: "23px" }} href="/">Aishani Pachauri.</Navbar.Brand>
+        <Navbar.Brand className="text-light " style={{ fontWeight: "500", fontSize: "23px" }} href="about">Aishani Pachauri.</Navbar.Brand>
         <Navbar.Toggle className="bg-light" aria-controls="navbarScroll" />
         <Navbar.Collapse style={{ justifyContent: 'flex-end' }} id="navbarScroll">
           <Nav
