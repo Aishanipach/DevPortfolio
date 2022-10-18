@@ -5,6 +5,7 @@
     color: white;
     transition: 0.3s;
     /* Adds a transition effect when the padding is decreased */
+    background-color: #202020;
 }
 
 #navbaractive {
