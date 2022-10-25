@@ -8,7 +8,7 @@ function ListBlog({ articles }) {
 
 
     articles.sort((a, b) => a.title.localeCompare(b.title));
-    articles.splice(-10)
+    articles.splice(0,5)
     return (
         <ListGroup as="ol" >
 
