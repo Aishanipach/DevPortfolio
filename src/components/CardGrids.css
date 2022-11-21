@@ -1,6 +1,6 @@
 .wrapper {
     display: flex;
-    margin: 12vh 16vw;
+    margin: 12vh 10vw;
     justify-content: space-around;
     flex-wrap: wrap;
 }
